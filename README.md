@@ -100,5 +100,10 @@ python3 bot.py
   - Fix openload support
   - Adding zippyshare , Mediafire , cloud mail  , Yandex disk ,Sourceforge {these are already written In PPE plugin you can use these from there}
   - Google Drive Direct Link Generator
+
+#### The Easy Way
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### Licence
   - GPLv3
